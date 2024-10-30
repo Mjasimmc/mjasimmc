@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mjasimmc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CFa1SNI7Mh4nrixtu-DnXuEccyOCgQyj/view](https://drive.google.com/file/d/1CFa1SNI7Mh4nrixtu-DnXuEccyOCgQyj/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NPe83j4ISF9PBviXglGpixWEpEsr-Pps/view?usp=sharing](https://drive.google.com/file/d/1NPe83j4ISF9PBviXglGpixWEpEsr-Pps/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
