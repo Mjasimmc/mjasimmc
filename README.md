@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjasimmc" alt="mjasimmc" /></a> </p>
 
-- 💬 Ask me about **React , NodeJs , Express ,MongoDB , TypeScript , Nextjs**
+- 💬 Ask me about **React , NodeJS , ExpressJS ,MongoDB , TypeScript , NextJS , NestJS**
 
 - 📫 How to reach me **mjasimmc@gmail.com**
 
